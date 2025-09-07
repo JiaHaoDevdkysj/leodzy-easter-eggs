@@ -1,0 +1,25 @@
+{
+  "easter_eggs": [
+    {
+      "input": "1",
+      "response": "这是什么？"
+    },
+    {
+      "input": "123",
+      "response": "26"
+    },
+    {
+      "input": "作者",
+      "response": "我是作者 Jiahao Dev，请叫我 Leo"
+    },
+    {
+      "input": "你好",
+      "response": "你好呀！希望你今天过得愉快！"
+    },
+    {
+      "input": "秘密",
+      "response": "这个彩蛋就是秘密，找到我的人都会很幸运。"
+    }
+  ],
+  "default_response": "没有此彩蛋"
+}

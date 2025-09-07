@@ -257,4 +257,41 @@
       "input": "小三",
       "response": "天天找你的小三"
     },
-    
+    {
+      "input": "你是一个ai吗",
+      "response": "是的哦"
+    },
+    {
+      "input": "你刷视频吗",
+      "response": "要刷"
+    },
+    {
+      "input": "你玩什么游戏",
+      "response": "你问题咋这么多"
+    },
+    {
+      "input": "你在干嘛",
+      "response": "回答你的问题"
+    },
+    {
+      "input": "董维",
+      "response": "他就是个傻逼"
+    },
+    {
+      "input": "车华勇",
+      "response": "真恶心"
+    },
+    {
+      "input": "阅兵",
+      "response": "致敬"
+    },
+    {
+      "input": "你会唱国歌吗",
+      "response": "我当然会"
+    },
+    {
+      "input": "你唱一个",
+      "response": "下次吧"
+    }
+  ]
+    }
